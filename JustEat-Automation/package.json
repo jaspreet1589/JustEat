@@ -1,0 +1,32 @@
+{
+  "name": "just-eat-uk",
+  "version": "1.0.0",
+  "buildVersion": "1",
+  "engines": {
+    "node": "10.13.0",
+    "yarn": "1.12.3"
+  },
+  "main": "conf.ts",
+  "author": "Jaspreet Singh- Test Automation Developer",
+  "scripts": {
+    "test": "protractor ./__test__/config/conf.js"
+  },
+  "dependencies": {
+    "@types/jasmine": "^3.3.7",
+    "@types/jasminewd2": "^2.0.6",
+    "@types/node": "^10.12.18",
+    "chromedriver": "^75.0.1",
+    "edgedriver": "^4.17134.1",
+    "fs-extra": "^7.0.1",
+    "jasmine-reporters": "^2.3.2",
+    "protractor": "^5.4.2",
+    "protractor-html-reporter-2": "^1.0.4",
+    "ts-node": "^8.3.0",
+    "tslint": "^5.15.0",
+    "tslint-consistent-codestyle": "^1.15.1",
+    "tslint-eslint-rules": "^5.4.0",
+    "typescript": "^3.4.3",
+    "xlsx": "^0.14.3"
+  },
+  "devDependencies": {}
+}
