@@ -1,6 +1,6 @@
 # JustEat
 Test Automation Framwork
-1st Page 
+
 
 Steps to Run Test Suite :
 Downlaod JustEat-Automation.zip file 
@@ -24,8 +24,6 @@ Validate we have Node module folder created after this.
 
 
 
-Second Page 
-
  
 
 Now run command
@@ -45,8 +43,7 @@ Using command
 Make sure controller is on required folder as shown in image 
 
 
-3rd Page 
- 
+
 Now all required set up has been completed 
 Finally execute  command to run the test suite 
 >>npm run test 
@@ -56,7 +53,7 @@ Test suite will start executing
 Reports folder on the left panel 
 Report > Select any numbered folder > Right click on it and select reveal in folder option 
  
-4th Page 
+
 
 Go to Folder and open protractorTestReport.html
  
